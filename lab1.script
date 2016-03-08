@@ -1,0 +1,12 @@
+Script started on 2016年03月08日 (週二) 20時26分28秒
+]0;F74042167@2015cpp: ~F74042167@2015cpp:~$ ws[Khoami;pwd pwd[C[C[C
+F74042167
+/home/F74042167
+]0;F74042167@2015cpp: ~F74042167@2015cpp:~$ git cong[Kfig -l
+]0;F74042167@2015cpp: ~F74042167@2015cpp:~$ git clone https://github.com/Bobby-Lai/lab1.gi t
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;F74042167@2015cpp: ~F74042167@2015cpp:~$ git clone https://github.com/Bobby-Lai/lab1.gitt
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;F74042167@2015cpp: ~F74042167@2015cpp:~$ exit
+
+Script done on 2016年03月08日 (週二) 20時29分52秒
